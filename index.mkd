@@ -1,4 +1,4 @@
 ---
 layout: redirect
-redirect_url: https://calendar.app.google/sF512PFYvCLDyKn69
+redirect_url: https://calendar.app.google/S1g8tESYD2CJ14Ma8
 ---
